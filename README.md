@@ -39,5 +39,5 @@ For questions and feedback, please contact:
 * Yao Zhang (Corresponding Author): [2022210888@nefu.edu.cn](mailto:2022210888@nefu.edu.cn)
 
 ---
-
+> **Note:** The full code and pre-trained models will be made publicly available upon the official acceptance of our paper by journal. Thank you for your interest!
 
