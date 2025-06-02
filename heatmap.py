@@ -228,8 +228,8 @@ def get_params():
         'backward_type': 'all', # class, box, all
         'conf_threshold': 0.2, # 0.2
         'ratio': 1.0, # 0.02-0.1
-        'show_box': True, # 不需要绘制框请设置为False
-        'renormalize': True # 需要把热力图限制在框内请设置为True
+        'show_box': True, 
+        'renormalize': True 
     }
     return params
 
