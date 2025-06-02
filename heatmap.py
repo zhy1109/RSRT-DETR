@@ -233,7 +233,6 @@ def get_params():
     }
     return params
 
-# 需要安装grad-cam==1.5.4
 
 if __name__ == '__main__':
     model = rtdetr_heatmap(**get_params())
