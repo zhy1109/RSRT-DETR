@@ -17,7 +17,7 @@ If you find this project helpful, please consider citing our paper and starring 
 * **Multi-Scale Hypergraph Reasoning**: Models high-order spatial relations to disambiguate cluttered targets.
 * **Progressive Semantic Fusion**: Preserves cross-scale context and enhances robustness in complex scenes.
 * **State-of-the-art Results**: Achieves top performance on DOTAv1.0, VisDrone2019, and NWPU VHR-10 datasets.
-* **Lightweight and Fast**: Lower FLOPs and parameter count than most DETR variants.
+* **Lightweight and Fast**: Lower FLOPs and parameter count than DETR variants.
 
 ---
 
